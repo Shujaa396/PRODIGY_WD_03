@@ -21,7 +21,9 @@ This is a classic Tic-Tac-Toe game built with **HTML**, **CSS**, and **JavaScrip
 [![Event Handling](https://img.shields.io/badge/Event_Handling-000000?style=for-the-badge&logo=javascript&logoColor=black)](#)
 
 ## Set Up / Get Started
-To access and play this game, click the link [here]( https://game-eta-tawny.vercel.app/ ).
+To access and play this game, click the link  [![Game Icon](https://img.shields.io/badge/Game-000000?style=for-the-badge&logo=gamepad&logoColor=white)](https://game-eta-tawny.vercel.app/)
+
+
 
 ## My Learnings in This Project
 - **JavaScript**: Enhanced skills in handling game logic, player turns, and UI updates.
