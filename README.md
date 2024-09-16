@@ -14,11 +14,11 @@ This is a classic Tic-Tac-Toe game built with **HTML**, **CSS**, and **JavaScrip
 - **Draw Detection**: The game detects and announces a draw if all cells are filled without a winner.
 - **Restart Functionality**: Players can restart the game with a single click.
 
-### How to Play
-1. Open the game in your web browser.
-2. Click on the cells to place your mark ('X' or 'O').
-3. The game alternates between players and displays the result once a win or draw condition is met.
-4. Click the "Restart Game" button to start a new game.
+### Skills Demonstrated
+
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![DOM Manipulation](https://img.shields.io/badge/DOM_Manipulation-000000?style=for-the-badge&logo=html5&logoColor=white)](#)
+[![Event Handling](https://img.shields.io/badge/Event_Handling-000000?style=for-the-badge&logo=javascript&logoColor=black)](#)
 
 ## Set Up / Get Started
 To access and play this game, click the link [here](#).
